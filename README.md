@@ -19,7 +19,7 @@ Array를 평탄하게 만드는 최소 Operation 갯수를 구하라.
    위의 과정을 다시 반복한다.  
    위 과정 중에 단조 감수, 단조 증가 함수가 되지 않으면, 예외다.
 
-   [Solution Code](./solution/drought.cpp)
+   [Solution Code](./well-known-problem/blob/main/solution/drought.cpp)
 
 2. 수학 $O(N)$  
    아래 링크 참고.
